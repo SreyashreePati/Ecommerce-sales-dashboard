@@ -1,1 +1,3 @@
 # Ecommerce-sales-dashboard
+"This project focuses on analyzing sales data from an eCommerce platform to understand customer behavior, product performance, and overall sales trends. The goal is to examine key metrics such as revenue, sales volume, customer demographics, product categories, and purchase patterns. Through data cleaning, visualization, and statistical analysis, the project aims to uncover insights that can drive business decisions such as inventory optimization, pricing strategies, targeted marketing, and improving customer satisfaction. The analysis will help in identifying trends, opportunities, and areas for growth in the eCommerce business."
+
